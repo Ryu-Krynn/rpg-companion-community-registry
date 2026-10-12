@@ -1536,5 +1536,20 @@
     "systems": [
       "5e"
     ]
+  },
+  {
+    "name": "Temporary-Class-Repository",
+    "description": "This a repository for homebrew classes, only temporary",
+    "tags": [
+      "5e"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Ryu-Krynn/Temporary-Class-Repository",
+    "repo_url": "https://Ryu-Krynn.github.io/Temporary-Class-Repository/",
+    "has_system": false
   }
 ]
