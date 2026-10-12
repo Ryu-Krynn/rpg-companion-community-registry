@@ -1532,6 +1532,9 @@
     "stars": 0,
     "github_repo": "Ryu-Krynn/Ryu-s-Extended-5e-compendium",
     "repo_url": "https://Ryu-Krynn.github.io/Ryu-s-Extended-5e-compendium/",
-    "has_system": false
+    "has_system": false,
+    "systems": [
+      "5e"
+    ]
   }
 ]
